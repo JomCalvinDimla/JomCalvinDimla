@@ -41,14 +41,7 @@ Building my skills one project at a time, from a family computer shop to the cod
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-## 📌 Featured Projects
 
-<!-- Pin your best repositories on your profile, then list them here with a one-line description. -->
-
-| Project | Description | Tech |
-|---|---|---|
-| [Project Name](https://github.com/JomCalvinDimla/your-repo) | One sentence on what it does and why you built it | Java |
-| [Project Name](https://github.com/JomCalvinDimla/your-repo) | One sentence on what it does and why you built it | Java |
 
 ## 📂 My Tasks
 
