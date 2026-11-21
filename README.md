@@ -50,6 +50,12 @@ Building my skills one project at a time, from a family computer shop to the cod
 | [Project Name](https://github.com/JomCalvinDimla/your-repo) | One sentence on what it does and why you built it | Java |
 | [Project Name](https://github.com/JomCalvinDimla/your-repo) | One sentence on what it does and why you built it | Java |
 
+## 📂 My Tasks
+
+All my school tasks, activities, and practice exercises are organized in one place:
+
+👉 **[Browse my tasks folder](https://github.com/JomCalvinDimla/tasks)**
+
 ## 📊 GitHub Stats
 
 <div align="center">
